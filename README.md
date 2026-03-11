@@ -236,8 +236,8 @@ ml-pipeline-model-comparison
 │   └── 3_modeling.ipynb
 │
 ├── data
-│   ├── loan_interest_rate.csv
-│   └── stroke_prediction.csv
+│   ├── credit_risk_dataset.csv
+│   └── healthcare-dataset-stroke-data.csv
 │
 ├── requirements.txt
 ├── README.md
