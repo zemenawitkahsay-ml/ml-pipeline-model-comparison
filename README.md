@@ -227,6 +227,7 @@ These predictors align with known financial and medical risk factors.
 
 ## Project Structure
 
+```
 ml-pipeline-model-comparison
 │
 ├── notebooks
@@ -241,8 +242,7 @@ ml-pipeline-model-comparison
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
----
+```
 
 ## Key Takeaways
 
